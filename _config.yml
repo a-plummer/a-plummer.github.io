@@ -1,6 +1,6 @@
 title: Abigail Plummer
 logo: /assets/img/abigailplummer.jpg
-description: Abigail Plummer's personal website. Currently a physics PhD student at Harvard studying soft matter. 
+description: "" #Abigail Plummer's personal website. Currently a physics PhD student at Harvard studying soft matter. 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
