@@ -2,10 +2,10 @@
 layout: default
 ---
 ## Research projects
-### Buckling of an array of impurities
+### Buckling and phase transitions in an array of dilations
 <img src="./assets/img/fig1.jpg" alt="Zigzag pattern impurity buckling" align="right"  width="220"/>
-Joint work with <a href="https://www.physics.harvard.edu/people/facpages/nelson" target="_blank">David Nelson</a>.<br>We studied periodic arrays of impurities that create localized regions of expansion, embedded in 2D crystalline membranes. Past a buckling transition, these dilations behave like spins in an Ising model, creating a mechanical analog of geometric frustration.<br>
-See our paper for details on our work at zero temperature (<a href="https://doi.org/10.1103/PhysRevE.102.033002" target="_blank"><u>doi</u></a>, <a href="https://arxiv.org/abs/2002.12302" target="_blank"><u>arXiv</u></a>). We are now looking into the finite temperature behavior of this model with <a href="https://phanakata.github.io/" target="_blank">Paul Hanakata</a>.  
+Joint work with <a href="https://www.physics.harvard.edu/people/facpages/nelson" target="_blank">David Nelson</a> and <a href="https://phanakata.github.io/" target="_blank">Paul Hanakata</a>. <br>We studied periodic arrays of impurities that create localized regions of expansion or contraction, embedded in 2D crystalline membranes. Past a buckling transition, these dilations behave like spins in an Ising model, creating a mechanical analog of geometric frustration.<br>
+See our paper for details on the zero temperature behavior of the model (<a href="https://doi.org/10.1103/PhysRevE.102.033002" target="_blank"><u>doi</u></a>, <a href="https://arxiv.org/abs/2002.12302" target="_blank"><u>arXiv</u></a>), and our <a href="https://arxiv.org/abs/2105.10015" target="_blank"><u>preprint<u></a> on finite temperature effects.  
 <br/>
 ### Competing species in a turbulent fluid
 <img src="./assets/img/turbulence.png" alt="Two species competiting in a turbulent fluid" style="float:left;margin: 3px 12px 3px 0px"  width="150"/>
