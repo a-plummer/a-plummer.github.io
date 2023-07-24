@@ -4,7 +4,7 @@ layout: default
 ## Research projects
 
 ### Obstructed swelling and fracture in hydrogels
-<img src="./assets/img/hydrogel.jpg" alt="Fracturing hydrogel" align="right"  width="130"/>
+<img src="./assets/img/hydrogel.jpg" alt="Fracturing hydrogel" style="float:right;margin: 0px 0px 3px 3px"  width="130"/>
 Collaborators: <a href="https://www.princeton.edu/~akosmrlj/" target="_blank">Andrej Košmrlj</a>, <a href="https://dattalab.princeton.edu/" target="_blank">Sujit Datta </a>, <a href="https://we3lab.stanford.edu/people/caroline-adkins" target="_blank">Caroline Adkins</a>, and <a href="https://www.nifelab.com/team" target="_blank">Jean-François Louf</a>. <br>Understanding how expanding or growing bodies respond to the presence of obstacles is relevant to many fields, including medicine, morphogenesis, and agriculture. We use hydrogels, polymer networks that expand in water, to explore how stresses develop in this general scenario. As pictured at right, we identify a regime in which stresses due to obstacles cause swelling hydrogels to fracture, tearing themselves apart as they expand. 
 
 ### Buckling and phase transitions in dilation arrays
