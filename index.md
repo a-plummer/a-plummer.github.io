@@ -2,9 +2,10 @@
 layout: default
 ---
 
+> **I am starting a group at <a href="https://www.bu.edu/eng/profile/abigail-plummer-ph-d/" target="_blank"><u>Boston University</u></a> in January 2024. We will use theory, simulation, and experiment to develop models for how soft materials deform, adapt, and/or grow in complex environments. We have openings for graduate students---please send me an email if you are interested!**
 
-> I am starting a group at <a href="https://www.bu.edu/eng/profile/abigail-plummer-ph-d/" target="_blank"><u>Boston University</u></a> in January 2024. We will use theory, simulation, and experiment to develop models for how soft materials deform, adapt, and/or grow in complex environments. We have openings for graduate students---please send me an email if you are interested!
-
+___
+___
 
 ## Selected research projects
 
