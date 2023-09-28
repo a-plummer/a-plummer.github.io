@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> <span style="font-size:120%; color: #6126D1"> I am starting a group at <a href="https://www.bu.edu/eng/profile/abigail-plummer-ph-d/" target="_blank"><u>Boston University</u></a> in January 2024. We will use theory, simulation, and experiment to explore how soft and living materials deform, adapt, and/or grow. We have openings for graduate students---please send me an email if you are interested! </span>
+> <span style="font-size:120%; color: #6126D1"> I am starting a group at <a href="https://www.bu.edu/eng/profile/abigail-plummer-ph-d/" target="_blank"><u>Boston University</u></a> in January 2024. We will use theory, simulation, and experiment to explore how soft and living materials deform, adapt, and/or grow. We will be hiring PhD students to start in Fall 2024---inquiries are welcome at aplummer [at] princeton.edu. </span>
 
 ---
 
